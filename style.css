@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #f0f0f0;
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#btnConvertir {
+    margin: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
